@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="691a623c-6624-44cb-bd22-891d20915a71" name="Changes" comment="Primeiros Exercicios da Cod3r Academy">
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+    <list default="true" id="691a623c-6624-44cb-bd22-891d20915a71" name="Changes" comment="Primeiros Exercicios da Cod3r Academy&#10;&#10;Concatenando com as váriaveis.">
+      <change afterPath="$PROJECT_DIR$/src/Fundamentos/Inferencia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fundamentos/Temperatura.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Fundamentos/AreaCircunferencia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fundamentos/AreaCircunferencia.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +57,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666301847490</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Primeiros Exercicios da Cod3r Academy&#10;&#10;Concatenando com as váriaveis.">
+      <created>1666302302761</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666302302761</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -74,6 +80,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Primeiros Exercicios da Cod3r Academy" />
-    <option name="LAST_COMMIT_MESSAGE" value="Primeiros Exercicios da Cod3r Academy" />
+    <MESSAGE value="Primeiros Exercicios da Cod3r Academy&#10;&#10;Concatenando com as váriaveis." />
+    <option name="LAST_COMMIT_MESSAGE" value="Primeiros Exercicios da Cod3r Academy&#10;&#10;Concatenando com as váriaveis." />
   </component>
 </project>
