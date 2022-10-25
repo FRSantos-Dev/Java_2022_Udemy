@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="691a623c-6624-44cb-bd22-891d20915a71" name="Changes" comment="Atualização 22/10/2022">
-      <change afterPath="$PROJECT_DIR$/src/Fundamentos/ConversaõTipoPrimitivoNumerico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fundamentos/PrimitivoVsObjeto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fundamentos/Wrapper.java" afterDir="false" />
+    <list default="true" id="691a623c-6624-44cb-bd22-891d20915a71" name="Changes" comment="Atualização 24/10/2022">
+      <change afterPath="$PROJECT_DIR$/src/Fundamentos/ConversaoNumeroString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fundamentos/ConversaoStringNumero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fundamentos/DesafioConversao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Fundamentos/Console.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666647163490</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Atualização 24/10/2022">
+      <created>1666657589977</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666657589977</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -130,6 +137,7 @@
     <MESSAGE value="Reesolucao dos Exercicos desafio de conversao de temperatura." />
     <MESSAGE value="Explicação da inferencia." />
     <MESSAGE value="Atualização 22/10/2022" />
-    <option name="LAST_COMMIT_MESSAGE" value="Atualização 22/10/2022" />
+    <MESSAGE value="Atualização 24/10/2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="Atualização 24/10/2022" />
   </component>
 </project>
