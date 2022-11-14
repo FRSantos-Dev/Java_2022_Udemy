@@ -1,0 +1,16 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(≤ù‰Ö
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ó∂Æ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(≈˝É»
+P
+java:S1854":Remove this useless assignment to local variable "ajuste".(‡ÇÿÑ
+O
+java:S1854"9Remove this useless assignment to local variable "fator".(‡ÇÿÑ
+:
+java:S1659"$Declare "ajuste" on a separate line.(‡ÇÿÑ
+@
+java:S1481"*Remove this unused "fator" local variable.(‡ÇÿÑ
+A
+java:S1481"+Remove this unused "ajuste" local variable.(‡ÇÿÑ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(®æå–
+N	java:S106"9Replace this use of System.out or System.err by a logger.(±Ö·Ù

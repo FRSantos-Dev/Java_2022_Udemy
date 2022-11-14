@@ -1,6 +1,67 @@
 
-:
-
-Guess.java,3\7\37457f757547b5816e680419489943ea4c9994ed
-9
-	Main.java,6\9\69cdb079609ed3ce1e356d44cff508330a5787c4
+T
+$src/Desafios/DesafioAritmeticos.java,f\1\f131a7f4525c5eb62e7e6f2abef1d7e3d0b46b64
+R
+"src/Desafios/DesafioConversao.java,1\1\11ed7efcc220f4ad4af612f0d97305f07edbd0cb
+Z
+*src/Fundamentos/ConversaoStringNumero.java,2\7\278adbf4477e6945842d5777a678d2e322ab78ab
+d
+4src/Fundamentos/ConversaõTipoPrimitivoNumerico.java,4\d\4dc3c3addff18eceefe9e0bbc93d22aec20872d8
+W
+'src/Fundamentos/DesafioAritmeticos.java,4\a\4a1ca3f3270c0985d559e9f3ba30cc9208be86e9
+Z
+*src/Fundamentos/ConversaoNumeroString.java,9\4\944f39a5a93ffc98a2ac651a18f6f9efbb1857d0
+O
+src/Fundamentos/Atribuicao.java,7\e\7e305a9bb91df0809933367e6d8c26d5d68ba0b9
+P
+ src/Fundamentos/Aritmeticos.java,2\f\2f0f09642a139db26723ea6b1afd4ed4a7ad0fba
+W
+'src/Fundamentos/AreaCircunferencia.java,2\7\272d5743bf98778bd66b158ee5e7937515a834d0
+K
+src/Fundamentos/Import.java,d\1\d1ebd6b757890c8534a44b3a076899652fa5706a
+Q
+!src/Fundamentos/NotacaoPonto.java,2\f\2f4d76b035cde6e359dd2f33285231b8aaa0c697
+V
+&src/Fundamentos/PrimitivoVsObjeto.java,8\4\8480ae2bed21f543a8e306c5282e5f33e586e46c
+P
+ src/Fundamentos/Relacionais.java,6\8\6892280dea554c7fd479912032b522038de38211
+P
+ src/Fundamentos/Temperatura.java,8\0\80e3dc135cfedf109d577d2ffb9db56ea394c49a
+O
+src/Fundamentos/TipoString.java,e\4\e4a550a3a70ddae7113618c8e71a6722125e5572
+U
+%src/Fundamentos/TipoStringEquals.java,3\0\3039617601ad01a2dda2cb868ee040081ecc7ad8
+L
+src/Fundamentos/Wrapper.java,a\b\aba34675381dd3a7b814bd61162e8eb2b326d1c0
+L
+src/Fundamentos/Unarios.java,c\f\cf573fb20937b4b158068bc248f7b0540f52aba0
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+U
+%src/Fundamentos/DesafioConversao.java,0\9\0918f84f0cec09c2c9d4348ef71e2850c3ee1d1f
+O
+src/Exercitando/Exercicio1.java,a\9\a9099909fc8c98f91b67461fc37fdc4ba7c4ee68
+X
+(src/Exercitando/Exercicio1_Correcao.java,8\6\86c6d820e316bade475152ed845d8fe46e180630
+X
+(src/Exercitando/Exercicio2_Correcao.java,1\9\19b5f2f6e1b228559bf006a0ea537cf3015f6952
+O
+src/Exercitando/Exercicio3.java,2\d\2deab85e4e36002fbe015b4a68dd38b78378bd27
+X
+(src/Exercitando/Exercicio3_Correcao.java,e\d\ed6c2cc2f051adcb318267f9588312df5824f693
+O
+src/Exercitando/Exercicio4.java,2\d\2d9449376ae6b2f089629f5563fae23b778586a5
+X
+(src/Exercitando/Exercicio4_Correcao.java,2\7\27efd2bf17d56029178c57921a6bced90315c720
+O
+src/Exercitando/Exercicio5.java,7\e\7e32b41b671f1570fb581be432c64e7f3f504f91
+X
+(src/Exercitando/Exercicio5_Correcao.java,6\b\6b4faa324bfa31c505fc419f5561e8b398d895aa
+O
+src/Exercitando/Exercicio6.java,0\d\0d9c28862ce1c954f121fa13faaa4dee5d20dba6
+X
+(src/Exercitando/Exercicio6_Correcao.java,6\0\6053a2f7d0c4e503c26bb914baeaeb30191b6011
+N
+src/Exercitando/Exercico2.java,d\6\d6dda07f7b2d9693d5408cfad6cad3913246a8d6
+[
++src/Desafios/CorrecaoDesafioAritmetico.java,e\2\e2f96b26522482fdd2be9092322d6dab532c04b9

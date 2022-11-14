@@ -1,0 +1,20 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(àÙ¢ø
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ê˜¬¿şÿÿÿÿ
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(ı˜¯ƒ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¿Âÿˆøÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(†ÿ­>
+N	java:S106"9Replace this use of System.out or System.err by a logger.(§ùïÃ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¹İÔµ
+S	java:S106"9Replace this use of System.out or System.err by a logger.( ïßøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(”úä›
+y
+java:S1157"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(”úä›
+S	java:S106"9Replace this use of System.out or System.err by a logger.(†¥¾¼ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(âÁÑœÿÿÿÿÿ
+2
+java:S2275"Not enough arguments.(Õ›«º8ğåÊâ¿0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Õ›«º8ÇâÇâ¿0
+Q
+java:S1128"4Remove this unused import 'org.w3c.dom.ls.LSOutput'.(Ò½¾Š8ªàÈâ¿0

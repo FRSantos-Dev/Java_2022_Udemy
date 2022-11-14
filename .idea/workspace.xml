@@ -4,7 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="691a623c-6624-44cb-bd22-891d20915a71" name="Changes" comment="Desafio Correção 11/11/22">
+      <change afterPath="$PROJECT_DIR$/src/Exercitando/Exercicio1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercitando/Exercicio1_Correcao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercitando/Exercicio2_Correcao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercitando/Exercicio3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercitando/Exercicio3_Correcao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercitando/Exercicio4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercitando/Exercicio4_Correcao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercitando/Exercicio5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercitando/Exercicio5_Correcao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercitando/Exercicio6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercitando/Exercicio6_Correcao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercitando/Exercico2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Desafios/DesafioCalculadora.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fundamentos/DesafioConversao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fundamentos/DesafioConversao.java" afterDir="false" />
+    </list>
+=======
     <list default="true" id="51f5b492-59e0-4105-bb48-db532c101d16" name="Changes" comment="" />
+>>>>>>> origin/master
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,11 +39,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Felipe/Cursos/Programação/Java 2022 - Udemy/Exercicios&quot;
+=======
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_opened_file_path": "C:/Felipe/Cursos/Programação/Java 2022 - Udemy"
+>>>>>>> origin/master
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -34,6 +65,106 @@
       <option name="presentableId" value="Default" />
       <updated>1668118044448</updated>
     </task>
+<<<<<<< HEAD
+    <task id="LOCAL-00001" summary="Primeiros Exercicios da Cod3r Academy">
+      <created>1666301847490</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666301847490</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Primeiros Exercicios da Cod3r Academy&#10;&#10;Concatenando com as váriaveis.">
+      <created>1666302302761</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666302302761</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Reesolucao dos Exercicos desafio de conversao de temperatura.">
+      <created>1666312788012</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666312788012</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Explicação da inferencia.">
+      <created>1666313397628</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666313397628</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Atualização 22/10/2022">
+      <created>1666647163490</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666647163490</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Atualização 24/10/2022">
+      <created>1666657589977</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666657589977</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Acrescentando Desafio Conversão">
+      <created>1666731494461</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1666731494461</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Desafios 25/10/2022">
+      <created>1666742428204</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1666742428204</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Desafio Correção 25/10/2022">
+      <created>1666743786036</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1666743786036</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Desafio Correção 11/11/22">
+      <created>1668197518520</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1668197518520</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Primeiros Exercicios da Cod3r Academy" />
+    <MESSAGE value="Primeiros Exercicios da Cod3r Academy&#10;&#10;Concatenando com as váriaveis." />
+    <MESSAGE value="Reesolucao dos Exercicos desafio de conversao de temperatura." />
+    <MESSAGE value="Explicação da inferencia." />
+    <MESSAGE value="Atualização 22/10/2022" />
+    <MESSAGE value="Atualização 24/10/2022" />
+    <MESSAGE value="Acrescentando Desafio Conversão" />
+    <MESSAGE value="Desafios 25/10/2022" />
+    <MESSAGE value="Desafio Correção 25/10/2022" />
+    <MESSAGE value="Desafio Correção 11/11/22" />
+    <option name="LAST_COMMIT_MESSAGE" value="Desafio Correção 11/11/22" />
+  </component>
+=======
+    <servers />
+  </component>
+>>>>>>> origin/master
 </project>

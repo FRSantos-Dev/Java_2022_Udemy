@@ -1,4 +1,4 @@
-package Fundamentos;
+package Desafios;
 
 import java.util.Scanner;
 
@@ -6,10 +6,11 @@ public class DesafioConversao {
 
     public static void main(String[] args) {
 
-        Scanner entrada = new Scanner(System.in); //Entrada de dados pelo teclado
+        Scanner entrada = new Scanner(System.in); //Entrada de dados eplo teclado
 
         System.out.println("Informe o primeiro salário: ");
-        String valor1 = entrada.next().replace(",", "."); //Substituindo vírgula por ponto
+        String valor1 = entrada.next().replace(",", ".") //Substituindo vírgula por ponto
+;
         System.out.println("\nInforme o segundo salário: ");
         String valor2 = entrada.next() .replace(",", ".");
 
