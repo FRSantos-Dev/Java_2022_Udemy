@@ -65,3 +65,5 @@ N
 src/Exercitando/Exercico2.java,d\6\d6dda07f7b2d9693d5408cfad6cad3913246a8d6
 [
 +src/Desafios/CorrecaoDesafioAritmetico.java,e\2\e2f96b26522482fdd2be9092322d6dab532c04b9
+B
+Controle/For3.java,5\9\594ae5352144f2a0319c3995a311160ec1cfe6a5
